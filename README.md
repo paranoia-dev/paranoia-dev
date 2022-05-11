@@ -1,16 +1,18 @@
-### Hi there 👋
+```py
+from GitHub import ReadMe
 
-<!--
-**paranoia-dev/paranoia-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class paranoia(ReadMe):
+    "/paranoia-dev/paranoia-dev/README.md"
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def __init__(self):
+        self.username = "paranoia"
+        self.contacts = {
+            "Discord": "paranoia#4103",
+            "Telegram": "paranoiadev"
+        }
+        self.alias = [
+            "paranoia"
+        ]
+        self.age = "14"
+        self.occupation = "Developer"
+        self.operating_system = "Windows 10"
