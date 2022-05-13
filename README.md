@@ -7,7 +7,7 @@ class paranoia(ReadMe):
     def __init__(self):
         self.username = "paranoia"
         self.contacts = {
-            "Discord": "paranoia#4103",
+            "Discord": "xdxdxd#1404",
             "Telegram": "paranoiadev"
         }
         self.alias = [
